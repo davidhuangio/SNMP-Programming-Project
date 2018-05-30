@@ -89,4 +89,5 @@ information. Another tip is to have something running the background internet-wi
 as a video or a download to get good results from the application.
 
 Sample Output:
+
 ![alttext](https://i.imgur.com/hfjFix1.png "Sample Output")
